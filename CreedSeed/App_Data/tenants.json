@@ -3,9 +3,9 @@
     "VersionId": "4815w42mnkhdb7wmmgdhb8wv5x",
     "State": "Running"
   },
-  "Bibelhandwerk": {
-    "VersionId": "4hx1r7j4c2j5z5pbdsjmdknkn3",
-    "RequestUrlPrefix": "bibelhandwerk",
+  "Wortklex": {
+    "VersionId": "4swqbtrtfp4gstrmsqwm22ayc3",
+    "RequestUrlPrefix": "blog",
     "State": "Running"
   }
 }
